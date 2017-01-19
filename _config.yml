@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title:  Qichang Ma's CV 
+description: Qichang Ma's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,7 +14,7 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Qichang Ma
   title: Java Developer
   address: Auckland, New Zealand
   email: dongg.liang@gmail.com
